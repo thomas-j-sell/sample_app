@@ -5,5 +5,5 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/)
 
-[Progress: ch 6.2.1](https://www.railstutorial.org/book/modeling_users)
+[Progress: ch 6.2.5](https://www.railstutorial.org/book/modeling_users#sec-modeling_users_conclusion)
 
