@@ -5,5 +5,5 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/)
 
-[Progress: ch 6.2.5](https://www.railstutorial.org/book/log_in_log_out#cha-log_in_log_out)
+[Progress: ch 6.2.5](https://www.railstutorial.org/book/log_in_log_out#sec-testing_layout_changes)
 

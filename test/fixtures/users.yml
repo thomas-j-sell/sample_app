@@ -1,1 +1,9 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+garrus:
+  name: Garrus Vakarian
+  email: archangel@omega.com
+  password_digest: <%= User.digest('iheartshepard') %>
+
+tali:
+  name: Tali'Zorah vas Normandy
+  email: talizee@normandy.com
+  password_digest: <%= User.digest('iheartshepard') %>
